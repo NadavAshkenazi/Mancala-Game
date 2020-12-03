@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/mnt/c/Users/nadav ashkenazi/OneDrive - Technion/Technion/semester_1/מבוא למדמ''ח ח'/HW - CS/hw3/Mancala"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/c/Users/nadav ashkenazi/OneDrive - Technion/Technion/semester_1/×ž×‘×•×� ×œ×ž×“×ž''×— ×—'/HW - CS/hw3/Mancala/cmake-build-debug
